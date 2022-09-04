@@ -1,0 +1,111 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.block{
+    padding: 16px 8px 16px 8px;
+    background-color: #fff;
+}
+.btn-1{
+    background-color:#6C5CE7;
+    color: #fff;
+    letter-spacing: 0.2px;
+    padding: 8px 16px;
+    font-weight: 700;
+    font-size: 18px;
+    border: #6C5CE7;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.arrow-right{
+    position: absolute;
+    right: 595px;
+}
+.btn-2{
+    background-color:#6C5CE7;
+    color: #fff;
+    letter-spacing: 0.2px;
+    padding: 8px 16px;
+    font-weight: 700;
+    font-size: 18px;
+    border: #6C5CE7;
+    border-radius: 16px;
+    cursor: pointer; 
+}
+.search{
+    position: absolute;
+}
+.block-1{
+    padding: 16px 8px 16px 8px;
+    background-color: #fff;
+}
+.purchase{
+    background-color:  #FDCB6E;
+    color: #000;
+    letter-spacing: 0.2px;
+    padding: 8px 16px 8px 16px;
+    font-weight:700 ;
+    font-size: 18px;
+    border: #FDCB6E;
+    border-radius: 999px;
+    cursor: pointer;
+}
+.award{
+    position: absolute;
+    padding: 4px 267px 4px 6px ;
+}
+.block-3{
+    padding: 16px 8px 16px 8px;
+    background-color: #fff; 
+}
+.beta{
+    background-color: #fff;
+    color: #000;
+    letter-spacing: 2.5px;
+    padding: 8px 8px 8px 8px ;
+    font-weight: 800;
+    font-size: 12px;
+    border: 1px solid #2D3436;
+    border-radius: 16px;border: 1px solid #000;
+    border-radius: 16px;
+}
+.alpha{
+    background-color:#6C5CE7;
+    color: #fff;
+    letter-spacing: 2.5px;
+    padding: 8px 8px 8px 8px ;
+    font-weight: 800;
+    font-size: 12px;
+    border: #6C5CE7;
+    border-radius: 16px;
+   
+}
+.gamma{
+    background-color:#6C5CE7;
+    color: #fff;
+    letter-spacing: 2.5px;
+    padding: 8px 8px 8px 8px ;
+    font-weight: 800;
+    font-size: 12px;
+    border: #6C5CE7;
+    border-radius: 16px;
+    
+}
+.new{
+    background-color: #FDCB6E;
+    color:#6C5CE7;
+    letter-spacing: 2.5px;
+    padding: 8px 8px 8px 8px ;
+    font-weight: 800;
+    font-size: 12px;
+    border: #FDCB6E;
+    border-radius: 16px;
+}
+.block-4{
+    padding: 16px 8px 16px 8px;
+    background-color: #fff;
+}
+.arrow{
+    background-color: rgb(233, 233, 233);
+    border: rgb(233, 233, 233);
+    border-radius:  999px;
+}
